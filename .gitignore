@@ -1,0 +1,56 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+*.exe
+
+# Environment and virtual environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+env1/
+env2/
+.env.bak/
+*.swp
+media/
+
+# IDE files
+.idea/
+.vscode/
+*.sublime-*
+
+# Testing and coverage
+.tox/
+.coverage
+.coverage.*
+.cache/
+
+# Logs and temporary files
+logs/
+*.log
+*.swp
+*.tmp
+
+# Database files
+*.db
+*.sqlite3
+*.sqlitedb
+
+# Compiled Python files
+*.pyc
+*.pyo
+
+# Local configuration
+local_settings.py
+
+# Jupyter Notebook
+.ipynb_checkpoints/
