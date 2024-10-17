@@ -29,9 +29,9 @@ schema_view = get_swagger_view(title="FULL BLACK API")
 
 redoc_schema_view = views.get_schema_view(
    openapi.Info(
-      title="AO APIs",
+      title="MP APIs",
       default_version='v1',
-      description="API Documentation of American Outlets backend",
+      description="API Documentation of Marketplace backend",
       terms_of_service="#",
    ),
    public=True,
